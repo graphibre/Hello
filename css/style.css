@@ -28,7 +28,7 @@ h1{}
 
 p{}
   .citation{
-    color: purple;
+    color: #d136fe;
     font-style: italic;
   }
 
@@ -38,4 +38,11 @@ img{}
   .persona{
     width: 100px;
     border-radius: 50%;
+  }
+  .jumbotron_turquoise {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: #d136fe;
+    background-color: #6eebd2;
   }
