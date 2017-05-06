@@ -27,7 +27,15 @@ body{}
 h1{}
 
 p{}
+  .citation{
+    color: purple;
+    font-style: italic;
+  }
 
 h6{}
 
 img{}
+  .persona{
+    width: 100px;
+    border-radius: 50%;
+  }
